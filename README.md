@@ -1,5 +1,8 @@
-# DB_Sber_Homework_2
+# DB_Sber_Homework_2(MongoDB)
+В начале я установил MongoDBCompass
 <img width="959" alt="Поставил Mongo" src="https://user-images.githubusercontent.com/89707757/230073148-ee5041a9-fc3f-44b7-8849-957816e481f5.png">
+
+Заполнил базу данных из [этого](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
 
 <img width="761" alt="Заполнил базу данных из датасета" src="https://user-images.githubusercontent.com/89707757/230074049-8593dcea-63d5-462c-a5df-9a3fb9e14eb4.png">
 
