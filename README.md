@@ -15,15 +15,20 @@
 <img width="750" alt="Create" src="https://user-images.githubusercontent.com/89707757/230074077-2fa59a77-b102-480d-b50c-0a23af1439d9.png">
 
 #### Read
+Выборка людей младше 30 лет
 
 <img width="758" alt="Read1(Age_lt_30)" src="https://user-images.githubusercontent.com/89707757/230074112-aa5d6b70-df3f-4629-9313-a1a98c095993.png">
 
+Выборка людей с доходом более 132к и менее 16к
+
 <img width="757" alt="Read2" src="https://user-images.githubusercontent.com/89707757/230074158-5a2c4e30-9ed6-4da7-a3f9-a11cb621ed4f.png">
 
+#### Update
+Покупатель сменил пол)
 <img width="742" alt="Update1" src="https://user-images.githubusercontent.com/89707757/230074200-12c0579d-e2e8-45a0-acfe-5e6975bda807.png">
 
 <img width="746" alt="Update1 1" src="https://user-images.githubusercontent.com/89707757/230074215-13748a8a-a945-491d-86bc-a486840a6d9d.png">
-
+У покупателя изменился доход
 <img width="740" alt="Update2" src="https://user-images.githubusercontent.com/89707757/230074239-396e1552-7784-4180-881c-78ddd6d4f12b.png">
 
 <img width="728" alt="Update2 2" src="https://user-images.githubusercontent.com/89707757/230074260-45a86a9b-6284-492f-b2de-c9a92466189e.png">
