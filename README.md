@@ -46,6 +46,7 @@
 Переходим в окно MONGOSH
 
 Делаем выборку по полу
+
 <img width="492" alt="выборка 1" src="https://user-images.githubusercontent.com/89707757/230081696-eea24fd9-db1b-4387-bd6a-5ea0eaaf120c.png">
 
 Считаем производительность
