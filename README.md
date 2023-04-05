@@ -1,11 +1,14 @@
 # DB_Sber_Homework_2(MongoDB)
-В начале я установил MongoDBCompass
+В начале я установил MongoDB Compass
+
 <img width="959" alt="Поставил Mongo" src="https://user-images.githubusercontent.com/89707757/230073148-ee5041a9-fc3f-44b7-8849-957816e481f5.png">
 
-Заполнил базу данных из [этого](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
+Заполнил базу данных из [этого](https://www.kaggle.com/datasets/shwetabh123/mall-customers) датасета
 
 <img width="761" alt="Заполнил базу данных из датасета" src="https://user-images.githubusercontent.com/89707757/230074049-8593dcea-63d5-462c-a5df-9a3fb9e14eb4.png">
 
+
+## CRUD-операции 
 <img width="750" alt="Create" src="https://user-images.githubusercontent.com/89707757/230074077-2fa59a77-b102-480d-b50c-0a23af1439d9.png">
 
 <img width="758" alt="Read1(Age_lt_30)" src="https://user-images.githubusercontent.com/89707757/230074112-aa5d6b70-df3f-4629-9313-a1a98c095993.png">
