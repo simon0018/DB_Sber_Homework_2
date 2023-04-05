@@ -42,4 +42,20 @@
 
 <img width="753" alt="Delete1 1" src="https://user-images.githubusercontent.com/89707757/230074325-a8e95f70-71ba-4547-87bd-d3361e5a02e0.png">
 
+## Создание индекса + сравнение производительности запросов
+Переходим в окно MONGOSH
 
+Делаем выборку по полу
+<img width="492" alt="выборка 1" src="https://user-images.githubusercontent.com/89707757/230081696-eea24fd9-db1b-4387-bd6a-5ea0eaaf120c.png">
+
+Считаем производительность
+
+<img width="512" alt="производительность 1" src="https://user-images.githubusercontent.com/89707757/230081715-00a35819-301d-4e80-b327-34c65de79d84.png">
+
+Создаем индекс
+
+<img width="299" alt="Создание индекса" src="https://user-images.githubusercontent.com/89707757/230081675-30b35839-27ea-4e08-9e34-cf66ae1e6d8e.png">
+
+Считаем производительность по той же выборке и убеждаемся, что результат стал в разы лучше
+
+<img width="533" alt="производительность 2" src="https://user-images.githubusercontent.com/89707757/230081732-eb866276-77a1-45f3-a693-37bf2e5e6a1f.png">
