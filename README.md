@@ -25,13 +25,18 @@
 
 #### Update
 Покупатель сменил пол)
+
 <img width="742" alt="Update1" src="https://user-images.githubusercontent.com/89707757/230074200-12c0579d-e2e8-45a0-acfe-5e6975bda807.png">
 
 <img width="746" alt="Update1 1" src="https://user-images.githubusercontent.com/89707757/230074215-13748a8a-a945-491d-86bc-a486840a6d9d.png">
 У покупателя изменился доход
+
 <img width="740" alt="Update2" src="https://user-images.githubusercontent.com/89707757/230074239-396e1552-7784-4180-881c-78ddd6d4f12b.png">
 
 <img width="728" alt="Update2 2" src="https://user-images.githubusercontent.com/89707757/230074260-45a86a9b-6284-492f-b2de-c9a92466189e.png">
+
+#### Delete
+Удалили первую запись из выборки людей, которым по 34
 
 <img width="753" alt="Delete1" src="https://user-images.githubusercontent.com/89707757/230074289-132b0b78-772d-450c-8e84-2c4cbf83a653.png">
 
